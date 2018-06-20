@@ -1,0 +1,9 @@
+---
+title: "R_club_RaspberryPi"
+author: "Ruijuan Li"
+date: "6/13/2018"
+output: html_document
+---
+
+### To do ... 
+1) how to use my own network instead of PiNet... 
